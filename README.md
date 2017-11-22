@@ -1,6 +1,6 @@
 # 1st-Tetris-Game-For-learn-
 Made from online toutorials in Javascript ES6 created a little tetris game 
-To play download tetris2.html and tetris2.js file make sure both files are in the same folder then open tetris2.html from the folder
+To play, copy tetris2.html and tetris2.js codes seperatly into text editor of any kind and make sure to save the files with the exact same names (tetris2.html and tetris2.js) when saved, make sure both files are in the same folder then open tetris2.html from the folder
 and enjoy :)
 
 Controls:
